@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Bima Junestifa 👋
 
+![Bima Junestifa](img/github-header-banner.png)
 <!--
 **bimajunestifa/bimajunestifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@bimajunestifa**
+- 🌱 I’m currently learning [**laravel**](https://Laravel.com) Framework
+-👍👍😒😊
