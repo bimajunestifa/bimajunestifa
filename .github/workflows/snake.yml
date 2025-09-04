@@ -1,14 +1,14 @@
-name: Generate snake animation
+name: Generate Snake & Pacman
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,15 +18,29 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Snake animation
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg?palette=github-dark
 
+      # Pacman contribution graph
+      - name: Generate pacman.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg
 
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Push results to branch 'output'
+      - name: Push files to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
