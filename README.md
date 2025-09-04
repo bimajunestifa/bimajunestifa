@@ -51,13 +51,13 @@
 
 <h2 align="left">Play Games With Me</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MilanHarun/MilanHarun/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MilanHarun/MilanHarun/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MilanHarun/MilanHarun/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<img src="https://raw.githubusercontent.com/MilanHarun/MilanHarun/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/snake.svg" alt="Snake animation" />
 
 ###
