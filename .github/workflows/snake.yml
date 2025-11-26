@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark
+            dist/snake.svg
 
       # Pacman contribution graph
       - name: Generate pacman.svg
