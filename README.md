@@ -24,51 +24,63 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
 <tr>
-<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px; text-align: left;">
 
 ### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+---
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br/>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </td>
-<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px; text-align: left;">
 
 ### ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+---
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br/>
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 </td>
-<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px; text-align: left;">
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br/>
 <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 </td>
-<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px; text-align: left;">
 
 ### 🤖 AI & Machine Learning
 
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+---
+
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) --><br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)<br/>
 ![Python](https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
-<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px; text-align: left;">
 
 ### 🔧 Version Control & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+---
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br/>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)<br/>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)<br/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 </td>
 </tr>
@@ -90,17 +102,23 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ## 🏆 GitHub Trophies
 
+---
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bimajunestifa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ## 🔝 Top Contributed Repo
 
+---
+
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=bimajunestifa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ## 🎮 Mainkan Game Bersama Saya
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/pacman-contribution-graph-dark.svg">
