@@ -132,6 +132,6 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=bimajunestifa&icon=0&color=0" alt="Visitor Count" />
-</div>
+</div> -->
