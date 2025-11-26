@@ -4,11 +4,13 @@
 
 ## Hello World! I'm Bima Junestifa 👋
 
-Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi web menggunakan teknologi modern. Saat ini saya sedang aktif belajar dan mengembangkan proyek-proyek menggunakan **Laravel Framework** dan teknologi web lainnya.
+Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi web menggunakan teknologi modern. Saat ini saya sedang aktif mempelajari dan mengembangkan berbagai proyek menggunakan **Laravel Framework** serta teknologi web lainnya.
 
 ---
 
 ## 🌐 Media Sosial
+
+---
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bima_junestifa17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bima-junestifa-9723b433a/)
@@ -18,11 +20,13 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ## 🛠️ Keahlian
 
-<table>
-<tr>
-<td valign="top" width="20%">
+---
 
-### Frontend
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<tr>
+<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
+
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,9 +34,9 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
 
-### Backend
+### ⚙️ Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,26 +44,26 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
 
-### Database
+### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
-<td valign="top" width="20%">
+<td valign="top" style="border: 1px solid #ddd; padding: 15px;">
 
-### Version Control & Tools
+### 🔧 Version Control & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,6 +77,8 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 ---
 
 ## 📊 GitHub Stats
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimajunestifa&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -94,7 +100,7 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ---
 
-## 🎮 Main Game Bersama Saya
+## 🎮 Mainkan Game Bersama Saya
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/pacman-contribution-graph-dark.svg">
