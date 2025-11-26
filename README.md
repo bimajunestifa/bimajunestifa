@@ -126,16 +126,12 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/snake.svg" alt="Snake animation" />
-
----
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bimajunestifa&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/bimajunestifa/bimajunestifa/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Proudly created with GPRM ( https://gprm.itsvg.in )</i>
+  <img src="https://visitcount.itsvg.in/api?id=bimajunestifa&icon=0&color=0" alt="Visitor Count" />
 </div>
