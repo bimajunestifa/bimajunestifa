@@ -55,8 +55,7 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br/>
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
 <td valign="top" style="border: 1px solid #ddd; padding: 15px; text-align: left;">
@@ -65,7 +64,6 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ---
 
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) --><br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)<br/>
 ![Python](https://img.shields.io/badge/Python-AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -104,7 +102,9 @@ Saya adalah seorang **Web Developer** yang berfokus pada pengembangan aplikasi w
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bimajunestifa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bimajunestifa&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
