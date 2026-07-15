@@ -33,15 +33,21 @@
 ### Web & Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,flutter&perline=7" alt="HTML, CSS, JavaScript, PHP, Laravel, Node.js, and Flutter" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" width="48" height="48" />
 </p>
 
 ### Database & ETL
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql&perline=7" alt="Python and MySQL" />
-  <img src="https://img.shields.io/badge/ETL-Extract%20•%20Transform%20•%20Load-0F6CBD?style=for-the-badge" alt="ETL" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Processing-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Data Processing" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow for ETL" title="Apache Airflow — ETL" width="48" height="48" />
 </p>
 
 `Data Extraction` • `Data Cleaning` • `Data Transformation` • `Data Loading`
@@ -49,9 +55,11 @@
 ### Cyber Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash&perline=7" alt="Kali Linux, Linux, and Bash" />
-  <img src="https://img.shields.io/badge/Web_Security-Learning-2E8B57?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
-  <img src="https://img.shields.io/badge/Network_Security-Learning-6A5ACD?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
+  <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" title="Kali Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="48" height="48" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Web Security" title="OWASP — Web Security" height="48" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark Network Security" title="Wireshark — Network Security" width="48" height="48" />
 </p>
 
 `Security Fundamentals` • `Web Security` • `Network Security` • `Ethical Hacking`
@@ -59,9 +67,13 @@
 ### AI, Design & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=7" alt="Git, GitHub, Figma, and Visual Studio Code" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" title="ChatGPT" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" title="Canva" />
 </p>
 
 ---
