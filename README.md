@@ -5,7 +5,7 @@
 <h1 align="center">Hi, saya Bima Junestifa 👋</h1>
 
 <p align="center">
-  <strong>Web Developer • App Developer • ETL Enthusiast • Cyber Security Learner</strong>
+  <strong>Web Developer • App Developer • ETL Learner • Cyber Security Learner</strong>
 </p>
 
 <p align="center">
