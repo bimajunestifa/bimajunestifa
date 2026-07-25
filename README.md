@@ -78,6 +78,12 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./img/github-activity-overview.svg" alt="GitHub activity overview: 95% commits dan 5% pull requests" width="482" />
+</p>
+
 ## 🕹️ Pac-Man Contribution Graph
 
 <p align="center">
